@@ -24,7 +24,7 @@ public class Deck implements DeckOfardsImpl{
         {
             String suits=  suit[i / 13];
             String ranks=  rank[i / 13];
-            System.out.println(ranks+suits);
+            
 
 
         }
